@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGENTS.md Doctor"
+  short_description: "Review repos and write concise AGENTS.md"
+  default_prompt: "Use $agents-md-doctor to inspect this repository, pull the official AGENTS.md patterns, and draft a concise repo-specific AGENTS.md."
