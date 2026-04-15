@@ -1,5 +1,7 @@
 # AGENTS.md Doctor
 
+[![CI](https://github.com/daniel-p-green/codex-skill_secret-agents-dot-md-doctor/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/daniel-p-green/codex-skill_secret-agents-dot-md-doctor/actions/workflows/ci.yml)
+
 `agents-md-doctor` is a Codex skill for drafting or refreshing short, repo-specific `AGENTS.md` files from actual repository evidence.
 
 The goal is to produce operational guidance that helps Codex work correctly in a repo without turning `AGENTS.md` into a handbook. The skill starts from repository facts, not generic advice, and uses current OpenAI Codex guidance plus the public `agents.md` examples as pattern inputs.
